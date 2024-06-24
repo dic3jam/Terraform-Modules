@@ -1,0 +1,17 @@
+.terraform/
+bin/
+crash.log
+.DS_Store
+.terraform.lock.hcl
+.python_packages
+__pycache__
+.venv
+tf.plan
+*.tfstate*
+*.code-workspace
+.vscode/
+**.zip
+**/packages/*
+*.bak
+local/
+*.tgz

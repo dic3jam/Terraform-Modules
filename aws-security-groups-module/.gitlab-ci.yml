@@ -1,0 +1,7 @@
+include:
+  - project: 'it-operations4/pipeline-templates'
+    file: 'basic-terraform-module-pipeline.yml'
+
+variables:
+  RELEASE_NUMBER: 1.0.12
+
